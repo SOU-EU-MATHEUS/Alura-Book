@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Alura Book
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto realizado através do curso de HTML e CSS na Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Alura Book**
+| :label: Tecnologias | HTML & CSS (tecnologias utilizadas)
+| :rocket: URL         | https://sou-eu-matheus.github.io/Alura-Book/
+| :fire: Desafio     | HTML e CSS: praticando HTML/CSS
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/SOU-EU-MATHEUS/Alura-Book/blob/main/alura-book.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Construa um site utilizando HTML e CSS
+Identificar elementos e estilos através do Figma
