@@ -12,7 +12,10 @@ Projeto realizado através do curso de HTML e CSS na Alura
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/SOU-EU-MATHEUS/Alura-Book/blob/main/alura-book.png#vitrinedev)
 
-## Detalhes do projeto
+## Detalhes do curso/projeto.
 
-Construa um site utilizando HTML e CSS
-Identificar elementos e estilos através do Figma
+<p>.Construir um site utilizando HTML e CSS.</p>
+
+<p>.Identificar elementos e estilos através do Figma</p>
+
+<p>.Realizar o deploy de um site através do Github Pages ou Vercel</p>
